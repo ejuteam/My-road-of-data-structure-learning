@@ -330,6 +330,7 @@ int main(void)
         system("pause");
         return 0;
     }
+    free(result);
     system("pause");
 }
 /********主函数********/
